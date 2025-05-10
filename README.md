@@ -1,7 +1,7 @@
 
-##  Project Overview
+##  repositories Overview
 
-This project introduces the core concepts of **Machine Learning (ML)** using practical examples, foundational methodologies, and model evaluation strategies.
+This repositories introduces the core concepts of **Machine Learning (ML)** using practical examples, foundational methodologies, and model evaluation strategies.
 
 ---
 
